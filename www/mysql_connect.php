@@ -2,7 +2,7 @@
 //required for all pages
 // Define constants for connection
 define ('DB_USER', 'sasy');      // replace xxxx with your mysql username    
-define ('DB_PASSWORD', 'lwh3059');  // replace yyyy with your mysql password
+define ('DB_PASSWORD', 'sasypwd');  // replace yyyy with your mysql password
 define ('DB_HOST', 'localhost');
 define ('DB_NAME', 'sasy');      // replace zzzzzz with your database name
 
